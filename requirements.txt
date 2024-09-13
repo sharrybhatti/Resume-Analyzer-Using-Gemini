@@ -1,0 +1,7 @@
+streamlit
+requests
+PyPDF2
+docx2txt
+python-dotenv
+google.generativeai
+sqlalchemy
