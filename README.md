@@ -1,6 +1,8 @@
 🎓 Resume Analyzer with Gemini 
 
 Welcome to the Resume Analyzer project! This application leverages the power of Google Gemini API to provide detailed analysis and insights from resume documents. Whether you’re a recruiter or a job seeker, this tool helps you extract and organize important resume information effortlessly.
+
+
 🚀 Features
 
     Upload and Analyze: Seamlessly upload PDF or DOCX resumes and extract key information.
